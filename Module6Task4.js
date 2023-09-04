@@ -11,11 +11,3 @@ function startFn (numOne, numTwo) {
 }
 startFn(5, 15)
 
-
-// const result = 5**5;
-// return result;
-}
-
-// exponentiationArrowFunction (5, 5)
-
-// console.log(result)
